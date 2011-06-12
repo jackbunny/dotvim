@@ -1,0 +1,8 @@
+ProjectTest=~/code/test CD=~/code/test flags=r {
+ Headers=. filter="*.h" {
+  test.h
+ }
+ CodeFiles=. filter="*.cpp" {
+  test.cpp
+ }
+}

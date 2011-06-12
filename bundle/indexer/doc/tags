@@ -1,0 +1,5 @@
+indexer	indexer.txt	/*indexer*
+indexer-commands	indexer.txt	/*indexer-commands*
+indexer-options	indexer.txt	/*indexer-options*
+indexer-plugin	indexer.txt	/*indexer-plugin*
+indexer.txt	indexer.txt	/*indexer.txt*
