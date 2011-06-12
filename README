@@ -1,4 +1,4 @@
-nstallation:
+Installation:
 
     git clone git://github.com/jackbunny/dotvim.git ~/.vim
 
