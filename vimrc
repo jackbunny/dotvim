@@ -5,6 +5,12 @@ call pathogen#helptags()
 set nocp
 filetype plugin on
 
+colorscheme slate
+syntax on
+set cindent
+set shiftwidth=3
+set expandtab
+
 " F9 For Tagbar and :Tree activates NERDTree
 noremap <silent> <F9> :TagbarToggle<CR>  
 cnoreabbrev Tree NERDTree
